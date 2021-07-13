@@ -4,11 +4,13 @@ using namespace std;
 
 int main()
 {
-    vector<int> vect{ 10, 20, 30 };
+    vector<int> v;
  
-    for (int x : vect)
-        cout << "'" << x << "'";
-    cout << endl;
+    for (size_t i = 0; i < 10; i++)
+    {
+        v.push_back(i);
+    }
+    
  
     return 0;
 }
