@@ -8,6 +8,9 @@ Command: `CMD + SHIFT + B`
 
 Command: `./<filename>.command`
 
+### Cleanup folder
+Command: `bash cleanup.sh`
+
 ### Resource
 Path1: /Library/Developer/CommandLineTools/usr/include/c++/v1/bits/stdc++.h
 Path2: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/bits/stdc++.h
